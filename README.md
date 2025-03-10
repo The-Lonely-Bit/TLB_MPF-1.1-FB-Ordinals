@@ -27,7 +27,7 @@ Our platform revolves around **challenge-driven** minting. Users **mint Ordinals
 
 ## Additional Resources
 
-1. [**Inscriptions README**](inscriptions.md)  
+1. [**Inscriptions README**](Inscriptions&Meta.md)  
    Learn how to structure your **metadata** for on-chain inscriptions.  
    
 2. [**Design README**](design.md)  
