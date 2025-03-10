@@ -1,24 +1,5 @@
-# TLB MintPumpFun
+# TLB MintPumpFun v1.1
 
-**Take the Ordinals Challenge: Mint to 100%!**  
-
-Welcome to **TLB MintPumpFun** – the ultimate challenge-based minting platform for Ordinals on **Fractal Bitcoin**. Mint fairly one-by-one at ultra-low fees (prices in sats) with complete on-chain transparency. Deployers can choose to list their collections either before or after reaching 100% minting.
-
----
-
-## Overview
-
-TLB MintPumpFun is built around a fun, challenge-driven minting experience where users mint Ordinals individually. This ensures fairness, affordability, and full decentralization. With our platform, you maintain complete control of your digital assets.
-
-**Key Features:**
-
-- **Challenge-Based Minting**: Mint your Ordinals one-by-one until you reach 100% minting, or list your collection early if desired.
-- **Transparent & Decentralized**: All minting occurs on-chain with no hidden fees or intermediaries.
-- **Fair & Affordable**: Mint at ultra-low fees with prices defined in satoshis.
-- **Customizable Minting Pages**: Deployers can choose from provided design templates or submit their own custom `design.json` files.
-- **Whitelist & Utility**: Manage whitelist features with an `addresses.json` file.
-
----
 
 ## How to Submit Your Collection
 
