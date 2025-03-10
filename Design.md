@@ -1,4 +1,6 @@
-# Customizing Your Collection's Design
+# TLB MintPumpFun v1.1
+
+## Customizing Your Collection's Design
 
 ## Introduction
 
