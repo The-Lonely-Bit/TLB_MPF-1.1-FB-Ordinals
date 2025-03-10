@@ -1,5 +1,7 @@
-# TLB MintPumpFun
-
+<p align="center"> 
+   # TLB MintPumpFun v1.1
+  <img src="https://thelonelybit.org/images/TLB-Icon-TransBG.png" alt="The LonelyBit Logo" width="200"/>
+</p>
 **Take the Ordinals Challenge: Mint to 100%!**  
 
 Welcome to **TLB MintPumpFun** – the ultimate challenge-based minting platform for Ordinals on **Fractal Bitcoin**. Mint **fairly one-by-one** at ultra-low fees with complete transparency. **Deployers** can choose to list their collections either **before** or **after** reaching 100% minting.
