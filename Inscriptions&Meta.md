@@ -48,7 +48,21 @@ Your collection metadata must follow this JSON structure:
 ```
 
 **Important Notes:**
-- **Keep the inscription id placeholder emptu)**
+
+- **Minted Collectibles** - If a collectible is minted it can be provided as :
+```json
+        {
+            "id": 1,
+            "name": "FULLMOONBIRDS #1",
+            "image": "FULLMOONBIRDS #1.gif",
+            "minted": true,
+            "inscriptionId": "1144b95feafd2dd7e1296dd0a442f56ab92613f51e873f8aec1c110cbd7d6da5i0",
+            "price": 10000000,
+            "receiveAddress": "",
+            "mintedAt": "InscribeNow"
+        },
+```
+- **Keep the inscription id placeholder empty)**
 - **Price is in Satoshis (sats)** – Ensure the `"price"` field is defined in sats.
 - **File Submission Required** – In addition to the metadata JSON, all associated files (e.g., NFT images such as `1.png`, `2.png`, etc.) must be submitted.
 - **Fractal Bitcoin Compatibility** – This format is designed to work seamlessly on Fractal Bitcoin.
