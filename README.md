@@ -1,5 +1,6 @@
-<p align="center"> 
    # TLB MintPumpFun v1.1
+
+<p align="center"> 
   <img src="https://thelonelybit.org/images/TLB-Icon-TransBG.png" alt="The LonelyBit Logo" width="200"/>
 </p>
 **Take the Ordinals Challenge: Mint to 100%!**  
