@@ -48,7 +48,7 @@ Your collection metadata must follow this JSON structure:
 ```
 
 **Important Notes:**
-
+- **Keep the inscription id placeholder emptu)**
 - **Price is in Satoshis (sats)** – Ensure the `"price"` field is defined in sats.
 - **File Submission Required** – In addition to the metadata JSON, all associated files (e.g., NFT images such as `1.png`, `2.png`, etc.) must be submitted.
 - **Fractal Bitcoin Compatibility** – This format is designed to work seamlessly on Fractal Bitcoin.
